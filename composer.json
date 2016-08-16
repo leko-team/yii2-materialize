@@ -1,5 +1,5 @@
 {
-  "name": "tuyakhov/yii2-materialize",
+  "name": "leko-team/yii2-materialize",
   "description": "This is the Materialize extension for Yii framework 2.0. It encapsulates Materialize components and plugins in terms of Yii widgets, and thus makes using Materialize components/plugins in Yii applications extremely easy.",
   "type": "yii2-extension",
   "keywords": [
@@ -18,12 +18,12 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "bower-asset/materialize": "0.97.*"
+    "bower-asset/materialize": "0.97.6"
   },
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/tuyakhov/yii2-materialize.git"
+      "url": "https://github.com/leko-team/yii2-materialize.git"
     }
   ],
   "autoload": {
