@@ -18,7 +18,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "dogfalo/materialize": "*",
+    "Dogfalo/materialize": "0.97.6",
     "bower-asset/materialize": "0.97.*"
   },
   "repositories": [
@@ -29,7 +29,7 @@
     {
         "type": "package",
         "package": {
-            "name": "dogfalo/materialize",
+            "name": "Dogfalo/materialize",
             "version": "0.97.6",
             "dist": {
                 "url": "https://github.com/Dogfalo/materialize/releases/download/v0.97.6/materialize-src-v0.97.6.zip",
