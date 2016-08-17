@@ -18,7 +18,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "dogfalo/materialize": "*",
+    "dogfalo/materialize": "0.97.6",
     "bower-asset/materialize": "0.97.*"
   },
   "repositories": [
@@ -27,8 +27,15 @@
       "url": "https://github.com/leko-team/yii2-materialize.git"
     },
     {
-      "type": "vcs",
-      "url": "https://github.com/dogfalo/materialize.git"
+        "type": "package",
+        "package": {
+            "name": "dogfalo/materialize",
+            "version": "0.97.6",
+            "dist": {
+                "url": "https://github.com/Dogfalo/materialize/releases/download/v0.97.6/materialize-src-v0.97.6.zip",
+                "type": "zip"
+            }
+        }
     }
   ],
   "autoload": {
