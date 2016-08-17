@@ -18,7 +18,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "dogfalo/materialize": "0.97.*",
+    "dogfalo/materialize": "*",
     "bower-asset/materialize": "0.97.*"
   },
   "repositories": [
