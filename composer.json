@@ -17,15 +17,8 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "*",
-    "bower-asset/materialize": "0.97.6"
+    "yiisoft/yii2": "*"
   },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/leko-team/yii2-materialize.git"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "tuyakhov\\materialize\\": ""
